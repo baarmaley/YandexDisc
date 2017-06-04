@@ -10,4 +10,4 @@
 <li>Удаление файлов</li>
 </ul></p>
 <p>Скриншот программы:</p>
-![yandexdisc](https://cloud.githubusercontent.com/assets/19309892/19838128/8bdddd58-9ed9-11e6-8afd-f37750a2f356.png)
+<img alt="screenshot" src="https://cloud.githubusercontent.com/assets/19309892/19838128/8bdddd58-9ed9-11e6-8afd-f37750a2f356.png">
